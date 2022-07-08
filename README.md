@@ -1,8 +1,3 @@
 # README
 
-The front-end: Show an article 
-
-- Route
-- Controller#action
-- Model/db table
-- View
+The front-end: List all articles
