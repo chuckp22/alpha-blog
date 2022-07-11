@@ -1,3 +1,3 @@
 # README
 
-The front-end: Creating articles
+Update article feature.
